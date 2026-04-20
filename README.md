@@ -4,7 +4,8 @@ InkTime este un smartwatch open-source si low-cost, cu ecran e-paper.
 
 ## Diagrama bloc
 
-![alt text](image.png)
+<img width="816" height="695" alt="image" src="https://github.com/user-attachments/assets/9d18757b-c435-4918-83f6-a35668b2f1a6" />
+
 
 ## BOM (Bill of Materials)
 
